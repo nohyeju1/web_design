@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 * {
     margin: 0;
     padding: 0;
@@ -245,3 +246,252 @@ transform: translate(30%, 0%);
         align-items: center;
         text-align: center;
     }
+=======
+* {
+    margin: 0;
+    padding: 0;
+}
+    .nav {
+        background-color: #000043;
+        height: 100px;
+        display: flex;
+        align-items: center;
+    }
+    .nav-right-items {
+        margin-left: auto;
+        display: flex;
+    }
+
+    .nav-item {
+        color: #fff;
+        margin-right: 30px;
+        margin-left: 10px;
+    }
+
+    .nav-item a {
+        display: flex;
+        color: #fff;
+        text-decoration-line: none;
+    }
+
+    .name img {
+        margin-left: 30px;
+        width: 30%
+    }
+
+    .main-img {
+        position: absolute;
+        background-image: url(%EC%9A%B0%EC%9A%B8.jpg);
+        width: 100%;
+        height: 450px;
+        overflow: hidden;
+    }
+
+    .main-img .title {
+        transform: translate(0%, 30%);
+        color: white;
+    }
+
+    .title {
+        width: 506px
+    }
+
+    .title h1 {
+        margin-left: 90px;
+        font-size: 60px;
+    }
+
+    .title h2 {
+        margin-left: 100px;
+        margin-top: 10px;
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .main {
+        width: 500px;
+        height: 50px;
+    }
+
+.servive-main {
+    text-align: center;
+    align-items: center;
+}
+
+.service-ex {
+    margin-top: 660px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.service {
+    margin-top: 80px;
+    text-align: center;
+    display: flex;
+}
+
+.service-title {
+    width: 300px;
+    height: 300px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 50%;
+    background: #ff7f00;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 300px;
+}
+
+.service-title a {
+    color: #000;
+    text-decoration-line: none;
+}
+
+.detail {
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+}
+
+.service-detail {
+    width: 300px;
+    height: 80px;
+    border: 1px solid white;
+    align-items: center;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.event {
+    background-color: #ff7f00;
+    height: 1100px;
+}
+
+.event-main {
+    margin-top: 300px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    color: #fff
+}
+
+.event-title {
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.event-box {
+    margin: 0 auto;
+    height: 280px;
+    border: 1px solid white;
+    background: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+    line-height: 60px;
+}
+
+.event-detail1 {
+    margin-top: 50px;
+    color: #fff;
+    text-align: center;
+}
+
+.detail-box {
+    width: 120px;
+    height: 40px;
+    background: #ff7f00;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    line-height: 40px;
+}
+
+.detail-box1 {
+    width: 280px;
+    height: 40px;
+    background: #ff7f00;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+    line-height: 36px;
+}
+
+.event-detail3 {
+    margin-top: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.event-detail4 {
+    color: darkgray;
+}
+
+.exp {
+    text-align: center;
+}
+
+    .exp-main {
+        width: 500px;
+        height: 50px;
+        text-align: center;
+    }
+
+ .exp-main-img {
+        position: absolute;
+        background-image: url(exp.png);
+        height: 800px;
+        width: 100%;
+        overflow: hidden;
+        align-items: center;
+        text-align: center;
+        display: flex;
+    }
+
+    .exp-title {
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+        color: #fff;
+        text-align: center;
+    }
+
+.exp-main-title2 {
+transform: translate(30%, 0%);
+    text-decoration-color: #fff;
+    color: #fff;
+}
+
+    .exp-title {
+        color: #fff;
+        align-items: center;
+    }
+
+    .exp-main h1 {
+        margin-left: 25px;
+        font-size: 30px;
+        color: #fff;
+        text-decoration-line: none;
+        align-items: center;
+        text-align: center;
+    }
+
+    .exp-main-img h2 {
+        margin-left: 100px;
+        margin-top: 100px;
+        font-weight: 500;
+        font-size: 25px;
+        color: #fff;
+        align-items: center;
+        text-align: center;
+    }
+>>>>>>> Stashed changes
